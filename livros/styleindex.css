@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0c2077;
+    height: 65px;
+    margin-bottom: 57px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #0c2077;
+    height: 65px;
+    margin-top: 57px;
+}
